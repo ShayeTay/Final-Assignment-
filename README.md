@@ -11,5 +11,9 @@
 
 # Shatavia Recommendation
 ## Intel Core i3
-![Intel Core](Intelcore.jpg)
+![Intel Core](Intelcore.jpeg)
+
+**Intel Core Information**
+##
+
 
