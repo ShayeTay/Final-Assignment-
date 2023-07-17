@@ -1,4 +1,4 @@
-theme: Minimal-theme- 
+
 # Final-Assignment-
 # Mikes Recommendation 
 ## Lenovo Ideapad
