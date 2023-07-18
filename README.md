@@ -32,3 +32,8 @@ Intel® UHD Graphics 600 shared memory
 14" Full HD (1920 x 1080) 16:9
 4 GB, LPDDR4
 64 GB Flash Memor
+[Website link](https://store.acer.com/en-us/acer-chromebook-314-cb314-1h-c9gc)
+- Light weight computer
+- Highspeed in processing 
+-CPU 4,682
+Price $549.00
