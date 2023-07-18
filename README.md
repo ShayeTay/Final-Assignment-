@@ -25,7 +25,7 @@
 
 ## Shatavia's Second Recommendation
 Acer Swift 3
-
+![alt text](Acer-Swift-3.jpg)
 Chrome OS
 Intel® Celeron® N4020 processor Dual-core 1.10 GHz
 Intel® UHD Graphics 600 shared memory
