@@ -1,4 +1,4 @@
-theme: jeykll-theme- 
+
 # Final-Assignment-
 # Mikes Recommendation 
 ## Lenovo Ideapad
@@ -14,14 +14,18 @@ theme: jeykll-theme-
 ## Intel Core i3
 ![Intel Core](Intelcore.jpeg)
 
-**Intel Core Information**
-##
+**Intel Core i3 Information**
+
 1. The cost is $539.00
 2. The CPU number is 898
 3. CPU Model	Intel Core i3
 4. Ram Memory Installed Size	16 GB
 5. Customer's describe the laptop as easy to use and navigate. There only complaint is the fact that it doesn't have a keyboard light.
 [Website](https://www.amazon.com/HP-Business-i3-1125G4-i5-1035G4-Accessories/dp/B0C3MPZXLQ/ref=sr_1_18?adgrpid=1341404748949050&hvadid=83838011873366&hvbmt=bp&hvdev=c&hvlocphy=72504&hvnetw=o&hvqmt=p&hvtargid=kwd-83838137381441%3Aloc-190&hydadcr=18032_13442871&keywords=business%2Bclass%2Blaptop&qid=1689607561&s=electronics&sr=1-18&ufe=app_do%3Aamzn1.fos.2b70bf2b-6730-4ccf-ab97-eb60747b8daf&th=1)
+
+## Shatavia's Second Recommendation
+
+
 
 
 
